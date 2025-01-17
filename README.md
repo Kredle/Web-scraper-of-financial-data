@@ -114,6 +114,11 @@ The program prompts the user until a valid choice is made. In case of any errors
 3. Update data
 4. Exit
 
+Enter your choice: 1
+PrivatBank/OshadBank: PrivatBank
+PrivatBank next_curr: 27.42
+
+
 
 ---
 
