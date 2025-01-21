@@ -85,7 +85,7 @@ The program prompts the user until a valid choice is made. In case of any errors
    - `selenium` (for web scraping)
    - `datetime` (for handling dates)
 
-3. **Chromedriver**: You need to install [Chromedriver](https://sites.google.com/a/chromium.org/chromedriver/) to interact with Chrome for scraping.
+3. **Chromedriver**: You need to install [Chromedriver]([https://sites.google.com/a/chromium.org/chromedriver/](https://developer.chrome.com/docs/chromedriver/downloads)) to interact with Chrome for scraping.
 
 ---
 
